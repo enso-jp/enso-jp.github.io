@@ -6,6 +6,6 @@ The site is built from [enso-jp/vietnam-guide](https://github.com/enso-jp/vietna
 
 ## Latest live deployment
 
-- Source: `enso-jp/vietnam-guide@main`
-- Commit: `ec121b4d`
+- Source: `enso-jp/vietnam-guide@f1f24493`
+- Commit: `f1f24493`
 - Date: 28 October 2026
